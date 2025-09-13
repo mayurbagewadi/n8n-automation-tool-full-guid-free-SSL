@@ -106,10 +106,10 @@ For HTTPS, use AWS Certificate Manager (ACM) or Let’s Encrypt.
 
 Patience is key: DNS propagation delays are normal when switching from Hostinger to Route 53.
 
-<h1>n8n Installation on AWS EC2 with Domain and SSL</h>
-Objective
+<h1> n8n Installation on AWS EC2 with Domain and SSL </h1>
 
-Install n8n on an AWS EC2 instance, accessible via a domain (yesgive.shop) with HTTPS and correct OAuth2 redirect handling.
+
+Install n8n on an AWS EC2 instance, accessible via a domain (domain.shop) with HTTPS and correct OAuth2 redirect handling.
 
 Step 1: Launch a new EC2 instance
 
